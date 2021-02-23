@@ -18,6 +18,7 @@
         <sprite>sprites\spr_gun</sprite>
         <sprite>sprites\spr_bullet</sprite>
         <sprite>sprites\spr_playerChunk</sprite>
+        <sprite>sprites\sprite18</sprite>
       </sprites>
       <sprites name="enemies">
         <sprite>sprites\spr_emeny_nofall</sprite>
